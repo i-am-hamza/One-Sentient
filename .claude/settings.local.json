@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(New-Item -ItemType Directory -Force -Path \"app\", \"lib\", \"components\\\\ui\", \"components\\\\layout\", \"components\\\\sections\", \"public\")",
+      "Bash(Out-Null)",
+      "Bash(Write-Output \"Directories created\")"
+    ]
+  }
+}
