@@ -73,8 +73,8 @@ export const PRODUCTS: Product[] = [
     tags:        ['React', 'Vite', 'PWA', 'Supabase'],
     badge:       'Beta',
     badgeColor:  'violet',
-    href:        null,
-    cta:         'Join Beta →',
+    href:        'https://apex-six-wine.vercel.app',
+    cta:         'Visit Apex →',
     gradient:    'from-violet to-indigo',
   },
   {
